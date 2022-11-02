@@ -1,0 +1,21 @@
+@font-face{
+    src: url("../font/NotoSans-Regular.ttf");
+    font-family: "Noto Sans";
+}
+
+@font-face{
+    src: url("../font/NotoSans-Black.ttf");
+    font-family: "Noto Sans Black";
+}
+
+span {
+    font-family: "Noto Sans Black";
+}
+
+p{
+    font-family: "Noto Sans";
+}
+
+td{
+    font-family: "Noto Sans Black";
+}
