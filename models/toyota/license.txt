@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toyota Corolla Levin AE92 GT APEX Kouki
+* source:	https://sketchfab.com/3d-models/toyota-corolla-levin-ae92-gt-apex-kouki-66dcbaf822ae47468655a604a83af703
+* author:	Nix_Dektara (https://sketchfab.com/Nix_Dektara)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toyota Corolla Levin AE92 GT APEX Kouki" (https://sketchfab.com/3d-models/toyota-corolla-levin-ae92-gt-apex-kouki-66dcbaf822ae47468655a604a83af703) by Nix_Dektara (https://sketchfab.com/Nix_Dektara) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
