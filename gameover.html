@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>3D Pacman - Game Over</title>
+        <link rel="shortcut icon" href="favicon.png">
+        <meta charset="utf-8">
+        <link href="font/fontStyle.css" rel="stylesheet">
+        <link href="css/animations.css" rel="stylesheet">
+        <link href="css/gameover.css" rel="stylesheet">
+
+        <script>
+            let getParam = function (key) {
+                let _parammap = {};
+                    document.location.search.replace(/\??(?:([^=]+)=([^&]*)&?)/g, function () {
+                        function decode(s) {
+                            return decodeURIComponent(s.split("+").join(" "));
+                        }
+
+                        _parammap[decode(arguments[1])] = decode(arguments[2]);
+                    });
+
+                    return _parammap[key];
+                };
+
+            window.onload = function() {
+                result=getParam("timerecords");
+                document.getElementById("timerecords").innerHTML += "<span> Time Record : " + result + "</span>"
+            }
+        </script>
+    </head> 
+
+	<body>
+        <audio id="audio" autoplay> <source src="./audio/car_accident.mp3"> </audio>
+        <div class = "title"> <span> You're Dead </span> </div>
+        <div id = "timerecords"></div>
+        <div class = "button">
+            <img src="image/gameover/home.png" onclick="location.href='index.html'"/>
+        </div>       
+    </body>
+</html>
