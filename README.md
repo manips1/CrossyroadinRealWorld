@@ -21,9 +21,8 @@ Change freely the viewing direction of a first-person perspective screen using t
 |Sound Effect, Object Physics & Position|Object Physics & Position, Presentation|HTML/CSS, Functions, PowerPoint|HTML/CSS,  Map, Refactoring|
 
 # Reference
-```
   Our Project reffered to [this project](https://github.com/Aftermoon-dev/3D-Pacman).
-```
+
 
 # Licenses
 
