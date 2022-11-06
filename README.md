@@ -11,6 +11,13 @@
 Change freely the viewing direction of a first-person perspective screen using the mouse.
  + Fun: Timer Function allows you to enjoy shortening records. Ranking System provides motivation for your best Record.
 
+# How to play
+<img width="812" src="https://user-images.githubusercontent.com/101717041/200185730-ce7f2f7c-19fe-4aab-8487-08ee06373d3c.png">
+---
+
+#Reference
+Our Project reffered to [this project](https://github.com/Aftermoon-dev/3D-Pacman)
+---
 
 
 # Developers
@@ -20,7 +27,7 @@ Change freely the viewing direction of a first-person perspective screen using t
 |Sound Effect, Object Physics & Position|Object Physics & Position, Presentation|HTML/CSS, Functions, PowerPoint|HTML/CSS,  Map, Refactoring|
 
 # Licenses
----
+
 ```
    MIT License
 
@@ -46,7 +53,7 @@ Change freely the viewing direction of a first-person perspective screen using t
 ```
 
 # Third-Party License
----
+
 
  ## THREE.js (https://github.com/mrdoob/three.js)
  ```
