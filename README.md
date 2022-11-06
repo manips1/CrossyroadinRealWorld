@@ -13,10 +13,6 @@ Change freely the viewing direction of a first-person perspective screen using t
 
 # How to play
 <img width="812" src="https://user-images.githubusercontent.com/101717041/200185730-ce7f2f7c-19fe-4aab-8487-08ee06373d3c.png">
----
-
-
-
 
 # Developers
 |201835465 서지원|201835474 안해빈|201835510 임찬호|201935121임혜균|
@@ -28,7 +24,6 @@ Change freely the viewing direction of a first-person perspective screen using t
 ```
   Our Project reffered to [this project](https://github.com/Aftermoon-dev/3D-Pacman).
 ```
----
 
 # Licenses
 
